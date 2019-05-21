@@ -1,7 +1,7 @@
-# Cryptography
-This repo contains various small scripts that are crypto related, that I wrote during the course of Cryptography in NTUA. The viginere decypher was an exercise for that class.
+## Cryptography
+This repo contains various small crypto related scripts, that I wrote during the course of Cryptography in NTUA. The viginere decypher was an exercise for that class.
 
-## Viginere decypher
+### Viginere decypher
 The ciphertext is known to be encrypted using the viginere method. Find_length.py uses the index of coincidence(IC) to find the most probable length of the key. The partial output of this programm is:  
 [(46, 0.0644927536231884), (30, 0.06666666666666668),  
 (12, 0.06672113289760347), (6, 0.06721132897603486),  
